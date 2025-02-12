@@ -1,4 +1,4 @@
-# Patient Management API
+# Patients Management API
 A simple RESTful API for managing patient records in a healthcare-related system. This API allows for basic CRUD (Create, Read, Update, Delete) operations on patient data stored in a MySQL database.
 
 ## Features
